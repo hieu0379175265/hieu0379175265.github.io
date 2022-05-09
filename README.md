@@ -1,30 +1,11 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Love_message_HTML
+lời tỏ tình của chàng coder đơn thân :)
 
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+This web page was created based on love tree concept and others source code from the link below:
 
-Mở file config.js sửa nội dung theo mẫu
-```
-const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
-```
+- [HTML5 Love Tree](http://blog.csdn.net/lisenyang/article/details/35220823)
+- [MP3 song] Hãy Cho Anh Ngỏ Lời (Single) - Mai Tiến Dũng (https://zingmp3.vn/album/Hay-Cho-Anh-Ngo-Loi-Single-Mai-Tien-Dung/6UDOBUWE.html)
+- [heart eyes emo] Chris Gannon (https://codepen.io/chrisgannon/pen/qBNBRgx)
+- [Button moves on hover] Rik Kendell (https://codepen.io/Rikki_Sixx/pen/MYbjXG)
 
+I would like to offer my sincerest "thank you" message to the source code contributors, without your valuable resources I would not be able to finish this mini-project. 
